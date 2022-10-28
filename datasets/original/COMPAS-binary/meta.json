@@ -1,0 +1,4 @@
+{
+    "label": "recidivate_within_two_years",
+    "positive": "recidivate_within_two_years == 1"
+}

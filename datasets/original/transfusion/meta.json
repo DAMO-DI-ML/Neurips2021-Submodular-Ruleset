@@ -1,0 +1,4 @@
+{
+    "label": "donated",
+    "positive": "donated == 1"
+}

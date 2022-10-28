@@ -1,0 +1,4 @@
+{
+    "label": "two_year_recid",
+    "positive": "two_year_recid == 1"
+}

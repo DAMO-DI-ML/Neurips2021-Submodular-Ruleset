@@ -1,0 +1,4 @@
+{
+    "label": "recid",
+    "positive": "recid == 1"
+}

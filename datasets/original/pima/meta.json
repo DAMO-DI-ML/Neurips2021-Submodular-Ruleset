@@ -1,0 +1,4 @@
+{
+    "label": "Outcome",
+    "positive": "Outcome == 1"
+}

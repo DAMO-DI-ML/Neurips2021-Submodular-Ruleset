@@ -1,0 +1,4 @@
+{
+    "label": "diagnosis",
+    "positive": "diagnosis == 'M'"
+}

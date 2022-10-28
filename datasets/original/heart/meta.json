@@ -1,0 +1,4 @@
+{
+    "label": "target",
+    "positive": "target == 1"
+}

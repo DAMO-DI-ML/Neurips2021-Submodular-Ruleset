@@ -1,0 +1,4 @@
+{
+    "label": "RiskPerformance",
+    "positive": "RiskPerformance == 'Good'"
+}

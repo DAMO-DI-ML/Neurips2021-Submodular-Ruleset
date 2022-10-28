@@ -1,0 +1,4 @@
+{
+    "label": "income_gt_50K",
+    "positive": "income_gt_50K == 1"
+}
